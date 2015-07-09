@@ -1,6 +1,6 @@
 #Generics
 
 
-![Rick Rolled](http://i.imgur.com/no3t9ib.gif)
+![SAMPLE TEXT](http://i.imgur.com/11lMFPx.png)
 
-High Quality video -> https://www.youtube.com/watch?v=dQw4w9WgXcQ
+High Quality video -> https://www.youtube.com/watch?v=Y27ey39dRYQ
